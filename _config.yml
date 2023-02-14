@@ -9,6 +9,8 @@ github_username: agorahub
 # Build settings
 timezone: Asia/Singapore
 theme: minima
+exclude:
+  - _posts/2021-07-23-STAND-時代革命-導演周冠威-電影就是創造力-樂觀是可以創造的.html
 paginate: 50
 plugins:
   - jekyll-feed
